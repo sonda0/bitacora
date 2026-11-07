@@ -65,4 +65,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0012]](./transmisiones/LOG-0012.md) — **Monolito de confinamiento gravitacional en deriva interestelar** *(2026-11-07T14:01:19Z)*
 * [[LOG-0013]](./transmisiones/LOG-0013.md) — **Fragmento de señal interferométrica fósil modulada en frecuencia ultra-baja** *(2026-11-07T15:01:22Z)*
 * [[LOG-0014]](./transmisiones/LOG-0014.md) — **Púlsar milisegundo de acreción rápida y oscilaciones quasi-periódicas** *(2026-11-07T17:17:59Z)*
+* [[LOG-0015]](./transmisiones/LOG-0015.md) — **Biosfera microbiana basada en amoníaco líquido en criomundo trans-neptuniano** *(2026-11-07T17:18:06Z)*
 <!-- NEXT_LOG_ANCHOR -->

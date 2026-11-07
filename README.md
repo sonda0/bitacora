@@ -52,4 +52,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 
 * [[LOG-0000]](#01-registro-de-origen-log-0000-el-corte-de-cordón) — **El Silencio del Sector Solar (Registro de inicialización - Arriba)**
 * [[LOG-0001]](./transmisiones/LOG-0001.md) — **Captura Interferométrica de Emisión Coherente en el Objeto Hexagonal HEX-04** *(2026-11-07T03:00:00Z)*
+* [[LOG-0002]](./transmisiones/LOG-0002.md) — **Púlsar milisegundo de acreción rápida y oscilaciones quasi-periódicas** *(2026-11-07T04:00:44Z)*
 <!-- NEXT_LOG_ANCHOR -->

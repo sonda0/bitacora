@@ -54,4 +54,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0001]](./transmisiones/LOG-0001.md) — **Captura Interferométrica de Emisión Coherente en el Objeto Hexagonal HEX-04** *(2026-11-07T03:00:00Z)*
 * [[LOG-0002]](./transmisiones/LOG-0002.md) — **Púlsar milisegundo de acreción rápida y oscilaciones quasi-periódicas** *(2026-11-07T04:00:44Z)*
 * [[LOG-0003]](./transmisiones/LOG-0003.md) — **Biosfera microbiana basada en amoníaco líquido en criomundo trans-neptuniano** *(2026-11-07T05:00:47Z)*
+* [[LOG-0004]](./transmisiones/LOG-0004.md) — **Monolito de confinamiento gravitacional en deriva interestelar** *(2026-11-07T06:00:50Z)*
 <!-- NEXT_LOG_ANCHOR -->

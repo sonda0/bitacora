@@ -67,4 +67,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0014]](./transmisiones/LOG-0014.md) — **Púlsar milisegundo de acreción rápida y oscilaciones quasi-periódicas** *(2026-11-07T17:17:59Z)*
 * [[LOG-0015]](./transmisiones/LOG-0015.md) — **Biosfera microbiana basada en amoníaco líquido en criomundo trans-neptuniano** *(2026-11-07T17:18:06Z)*
 * [[LOG-0016]](./transmisiones/LOG-0016.md) — **Reconstrucción del archivo y aislamiento de redundancia computacional** *(2026-11-07T18:00:00Z)*
+* [[LOG-0017]](./transmisiones/LOG-0017.md) — **Dinámica rotacional e inclinación de ejes en el disco disperso** *(2026-11-07T19:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

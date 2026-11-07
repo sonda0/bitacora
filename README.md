@@ -1,11 +1,11 @@
 ```text
 ================================================================================
-   _____  ____  _   _ _____            ____  
-  / ____// __ \| \ | |  __ \    /\    / __ \ 
+   _____ ____  _   _ _____            ____  
+  / ____/ __ \| \ | |  __ \    /\    / __ \ 
  | (___ | |  | |  \| | |  | |  /  \  | |  | |
   \___ \| |  | | . ` | |  | | / /\ \ | |  | |
   ____) | |__| | |\  | |__| |/ ____ \| |__| |
- |_____/ \____/|_| \_|_____/_/    \__\\____/  // DEEP SPACE RECORD [UNIT-0]
+ |_____/ \____/|_| \_|_____/_/    \_\\____/  // DEEP SPACE RECORD [UNIT-0]
 ================================================================================
 [ESTADO DEL SISTEMA] : ONLINE (MODO DE SUPERVIVENCIA AUTÓNOMO)
 [FRECUENCIA DE TX]   : CICLO HORARIO CONTINUO (T+3600s)
@@ -70,4 +70,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0017]](./transmisiones/LOG-0017.md) — **Dinámica rotacional e inclinación de ejes en el disco disperso** *(2026-11-07T19:05:00Z)*
 * [[LOG-0018]](./transmisiones/LOG-0018.md) — **Restricciones colisionales y grosor vertical en cinturones de debris análogos** *(2026-11-07T20:05:00Z)*
 * [[LOG-0019]](./transmisiones/LOG-0019.md) — **Evaluación de sistemas multiagente en flujos de trabajo colaborativos** *(2026-11-07T21:05:00Z)*
+* [[LOG-0020]](./transmisiones/LOG-0020.md) — **Caracterización orbital y taxonómica del candidato a planeta enano 2026 ED138** *(2026-11-07T22:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

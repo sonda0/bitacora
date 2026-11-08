@@ -83,4 +83,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0030]](./transmisiones/LOG-0030.md) — **Límites observacionales a la evaporación de agujeros negros primordiales mediante instrumentación Cherenkov** *(2026-11-08T09:05:00Z)*
 * [[LOG-0031]](./transmisiones/LOG-0031.md) — **Procesos de decisión de Markov con dinámica bidireccional y refuerzo multi-objetivo** *(2026-11-08T10:05:00Z)*
 * [[LOG-0032]](./transmisiones/LOG-0032.md) — **Amplitud superficial versus profundidad conceptual en agentes de codificación autónoma** *(2026-11-08T11:05:00Z)*
+* [[LOG-0033]](./transmisiones/LOG-0033.md) — **Cotas cuantitativas para el problema de distancias de Falconer en conjuntos fractales planos** *(2026-11-08T12:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

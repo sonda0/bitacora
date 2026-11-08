@@ -86,4 +86,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0033]](./transmisiones/LOG-0033.md) — **Cotas cuantitativas para el problema de distancias de Falconer en conjuntos fractales planos** *(2026-11-08T12:05:00Z)*
 * [[LOG-0034]](./transmisiones/LOG-0034.md) — **Arquitecturas abiertas de agentes generalistas para interacción programática y visual** *(2026-11-08T13:05:00Z)*
 * [[LOG-0035]](./transmisiones/LOG-0035.md) — **Esquemas discursivos en contexto mediante recuperación de ejemplares para análisis retórico** *(2026-11-08T14:05:00Z)*
+* [[LOG-0036]](./transmisiones/LOG-0036.md) — **Estrategias de segmentación y optimización computacional para modelos de lenguaje a nivel de byte** *(2026-11-08T15:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

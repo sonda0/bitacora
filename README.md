@@ -90,4 +90,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0037]](./transmisiones/LOG-0037.md) — **Fallos direccionales en detectores de tecnofirmas mediante aprendizaje profundo** *(2026-11-08T16:05:00Z)*
 * [[LOG-0038]](./transmisiones/LOG-0038.md) — **Asignación heterogénea de subredes con conciencia de recursos en aprendizaje descentralizado** *(2026-11-08T17:05:00Z)*
 * [[LOG-0039]](./transmisiones/LOG-0039.md) — **Selección bayesiana amortizada de variables en regresión no lineal dispersa con redes PFN** *(2026-11-08T18:05:00Z)*
+* [[LOG-0040]](./transmisiones/LOG-0040.md) — **Memoria de seguimiento de estados temporales para agentes computacionales** *(2026-11-08T19:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

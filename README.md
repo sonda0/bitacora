@@ -72,4 +72,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0019]](./transmisiones/LOG-0019.md) — **Evaluación de sistemas multiagente en flujos de trabajo colaborativos** *(2026-11-07T21:05:00Z)*
 * [[LOG-0020]](./transmisiones/LOG-0020.md) — **Caracterización orbital y taxonómica del candidato a planeta enano 2026 ED138** *(2026-11-07T22:05:00Z)*
 * [[LOG-0021]](./transmisiones/LOG-0021.md) — **Evaluación de modelos generalizados aditivos compuestos en aprendizaje tabular** *(2026-11-08T00:05:00Z)*
+* [[LOG-0022]](./transmisiones/LOG-0022.md) — **Actualizaciones de recuperación secuencial para controladores aprendidos y preservación de trayectorias** *(2026-11-08T01:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

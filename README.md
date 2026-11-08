@@ -80,4 +80,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0027]](./transmisiones/LOG-0027.md) — **Complejidad polinomial del conjunto independiente de peso máximo en clases de grafos restringidas** *(2026-11-08T06:05:00Z)*
 * [[LOG-0028]](./transmisiones/LOG-0028.md) — **Termodinámica de defectos de línea y expansiones de operadores a temperatura finita** *(2026-11-08T07:05:00Z)*
 * [[LOG-0029]](./transmisiones/LOG-0029.md) — **Optimización de parsing para el estándar SMT-LIB en entornos de alto rendimiento** *(2026-11-08T08:05:00Z)*
+* [[LOG-0030]](./transmisiones/LOG-0030.md) — **Límites observacionales a la evaporación de agujeros negros primordiales mediante instrumentación Cherenkov** *(2026-11-08T09:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

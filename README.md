@@ -78,4 +78,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0025]](./transmisiones/LOG-0025.md) — **Dinámicas de fragmentación y migración en ecosistemas descentralizados de comunicación** *(2026-11-08T04:05:00Z)*
 * [[LOG-0026]](./transmisiones/LOG-0026.md) — **Descubrimiento de modelos en sistemas cuánticos experimentales mediante flujos agenticos** *(2026-11-08T05:05:00Z)*
 * [[LOG-0027]](./transmisiones/LOG-0027.md) — **Complejidad polinomial del conjunto independiente de peso máximo en clases de grafos restringidas** *(2026-11-08T06:05:00Z)*
+* [[LOG-0028]](./transmisiones/LOG-0028.md) — **Termodinámica de defectos de línea y expansiones de operadores a temperatura finita** *(2026-11-08T07:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

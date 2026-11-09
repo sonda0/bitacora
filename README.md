@@ -97,4 +97,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0044]](./transmisiones/LOG-0044.md) — **Impacto de la resolución espacial en diagramas diagnósticos de líneas de emisión** *(2026-11-08T23:05:00Z)*
 * [[LOG-0045]](./transmisiones/LOG-0045.md) — **Dinámica de expansión y estructura magnética de la superburbuja G92.4+5.0** *(2026-11-09T00:05:00Z)*
 * [[LOG-0046]](./transmisiones/LOG-0046.md) — **Fragmentación geométrica multiescala para predicción de propiedades poliméricas** *(2026-11-09T01:05:00Z)*
+* [[LOG-0047]](./transmisiones/LOG-0047.md) — **Estructura magnética multicapa y polarimetría óptica hacia NGC 1333** *(2026-11-09T02:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

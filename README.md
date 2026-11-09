@@ -114,4 +114,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0061]](./transmisiones/LOG-0061.md) — **Búsqueda de materia oscura sub-GeV mediante el efecto Migdal en datos de LUX-ZEPLIN** *(2026-11-09T17:05:00Z)*
 * [[LOG-0062]](./transmisiones/LOG-0062.md) — **Compensación de carga topológica mixta dimensional más allá del emparejamiento de nodos Weyl** *(2026-11-09T18:05:00Z)*
 * [[LOG-0063]](./transmisiones/LOG-0063.md) — **Decaimiento inicial de corriente térmica versus transporte en resonancia de tres cuerpos en gas de Fermi unidimensional** *(2026-11-09T19:05:00Z)*
+* [[LOG-0064]](./transmisiones/LOG-0064.md) — **Origen sub-parsec de transiciones rápidas de estado de acreción en AGN radio-ruidosos** *(2026-11-09T20:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

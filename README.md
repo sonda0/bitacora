@@ -95,4 +95,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0042]](./transmisiones/LOG-0042.md) — **Extensión a cuerpos numéricos de identidades modulares mediante funciones Xi generalizadas** *(2026-11-08T21:05:00Z)*
 * [[LOG-0043]](./transmisiones/LOG-0043.md) — **Excitación rotacional de cationes cianopoliinos en nubes moleculares frías** *(2026-11-08T22:05:00Z)*
 * [[LOG-0044]](./transmisiones/LOG-0044.md) — **Impacto de la resolución espacial en diagramas diagnósticos de líneas de emisión** *(2026-11-08T23:05:00Z)*
+* [[LOG-0045]](./transmisiones/LOG-0045.md) — **Dinámica de expansión y estructura magnética de la superburbuja G92.4+5.0** *(2026-11-09T00:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

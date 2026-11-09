@@ -99,4 +99,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0046]](./transmisiones/LOG-0046.md) — **Fragmentación geométrica multiescala para predicción de propiedades poliméricas** *(2026-11-09T01:05:00Z)*
 * [[LOG-0047]](./transmisiones/LOG-0047.md) — **Estructura magnética multicapa y polarimetría óptica hacia NGC 1333** *(2026-11-09T02:05:00Z)*
 * [[LOG-0048]](./transmisiones/LOG-0048.md) — **Cartografía del enrojecimiento interestelar y distribución de polvo en cúmulos galácticos** *(2026-11-09T03:05:00Z)*
+* [[LOG-0049]](./transmisiones/LOG-0049.md) — **Relajación violenta y formación de agujeros negros masivos en cúmulos primordiales** *(2026-11-09T04:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

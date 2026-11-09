@@ -106,4 +106,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0053]](./transmisiones/LOG-0053.md) — **Formación estelar inducida por retroalimentación radiativa en el complejo Cepheus OB2** *(2026-11-09T08:05:00Z)*
 * [[LOG-0054]](./transmisiones/LOG-0054.md) — **Evolución de la relación Tully-Fisher a z = 4-6 en el sondeo ALPINE-CRISTAL-JWST** *(2026-11-09T09:05:00Z)*
 * [[LOG-0055]](./transmisiones/LOG-0055.md) — **Evolución del polvo y límites de inestabilidad de flujo en discos con vientos magnetizados** *(2026-11-09T10:05:00Z)*
+* [[LOG-0056]](./transmisiones/LOG-0056.md) — **Evolución del período superorbital y precesión de disco en la binaria de rayos X Hércules X-1** *(2026-11-09T11:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

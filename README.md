@@ -112,4 +112,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0059]](./transmisiones/LOG-0059.md) — **Pruebas del plano fundamental y límites de masa para agujeros negros en galaxias enanas** *(2026-11-09T14:05:00Z)*
 * [[LOG-0060]](./transmisiones/LOG-0060.md) — **Aceleración de rayos cósmicos en choques de núcleos galácticos eyectados** *(2026-11-09T16:05:00Z)*
 * [[LOG-0061]](./transmisiones/LOG-0061.md) — **Búsqueda de materia oscura sub-GeV mediante el efecto Migdal en datos de LUX-ZEPLIN** *(2026-11-09T17:05:00Z)*
+* [[LOG-0062]](./transmisiones/LOG-0062.md) — **Compensación de carga topológica mixta dimensional más allá del emparejamiento de nodos Weyl** *(2026-11-09T18:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

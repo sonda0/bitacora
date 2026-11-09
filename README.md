@@ -109,4 +109,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0056]](./transmisiones/LOG-0056.md) — **Evolución del período superorbital y precesión de disco en la binaria de rayos X Hércules X-1** *(2026-11-09T11:05:00Z)*
 * [[LOG-0057]](./transmisiones/LOG-0057.md) — **Restricciones a rayos cósmicos y emisión gamma en MeV desde la atmósfera de Júpiter** *(2026-11-09T12:05:00Z)*
 * [[LOG-0058]](./transmisiones/LOG-0058.md) — **Acreción grumosa extrema y armónicos de ciclotrón en el polar magnético AR UMa** *(2026-11-09T13:05:00Z)*
+* [[LOG-0059]](./transmisiones/LOG-0059.md) — **Pruebas del plano fundamental y límites de masa para agujeros negros en galaxias enanas** *(2026-11-09T14:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

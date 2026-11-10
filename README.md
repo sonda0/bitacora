@@ -125,4 +125,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0072]](./transmisiones/LOG-0072.md) — **Acreción detenida magnéticamente y espín de agujero negro en modelo semianalítico de formación galáctica** *(2026-11-10T07:05:00Z)*
 * [[LOG-0073]](./transmisiones/LOG-0073.md) — **Estados de bicoherencia por acoplamiento QPO-flujo de acreción en binarias de rayos X de agujero negro** *(2026-11-10T08:05:00Z)*
 * [[LOG-0074]](./transmisiones/LOG-0074.md) — **Materia oscura no estándar en escalas no lineales: interacción DM-DE y ecuación de estado** *(2026-11-10T09:05:00Z)*
+* [[LOG-0075]](./transmisiones/LOG-0075.md) — **Evolución del ancho equivalente [OIII]+Hβ en galaxias de z=3 a z=8.5 con JWST PRIMER+MINERVA** *(2026-11-10T10:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

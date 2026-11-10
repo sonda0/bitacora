@@ -117,4 +117,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0064]](./transmisiones/LOG-0064.md) — **Origen sub-parsec de transiciones rápidas de estado de acreción en AGN radio-ruidosos** *(2026-11-09T20:05:00Z)*
 * [[LOG-0065]](./transmisiones/LOG-0065.md) — **Discriminación de rasgos de escala dependiente primordiales vs post-inflacionarios en el CMB** *(2026-11-10T00:05:00Z)*
 * [[LOG-0066]](./transmisiones/LOG-0066.md) — **Emisión coherente de radio a 45 MHz en la enana M GJ 725A con exoplaneta** *(2026-11-10T01:05:00Z)*
+* [[LOG-0067]](./transmisiones/LOG-0067.md) — **Fracción de fusión y límite de masa superior en enanas blancas ultramasivas** *(2026-11-10T02:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

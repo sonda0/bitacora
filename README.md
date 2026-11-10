@@ -134,4 +134,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0081]](./transmisiones/LOG-0081.md) — **El frenado por marea no domina los rotadores lentos de cúmulos abiertos** *(2026-11-10T16:05:00Z)*
 * [[LOG-0082]](./transmisiones/LOG-0082.md) — **Condiciones termofísicas desfavorables para volátiles en asteroide cercano 1998 KY26, objetivo de Hayabusa2** *(2026-11-10T17:05:00Z)*
 * [[LOG-0083]](./transmisiones/LOG-0083.md) — **Desafío FAIR Universe de lenteo débil: dataset benchmark y competición de inferencia cosmológica** *(2026-11-10T18:05:00Z)*
+* [[LOG-0084]](./transmisiones/LOG-0084.md) — **Estelas de satélites en HETDEX: espectros, identificación orbital e impacto en sondeo** *(2026-11-10T19:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

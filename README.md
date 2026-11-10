@@ -120,4 +120,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0067]](./transmisiones/LOG-0067.md) — **Fracción de fusión y límite de masa superior en enanas blancas ultramasivas** *(2026-11-10T02:05:00Z)*
 * [[LOG-0068]](./transmisiones/LOG-0068.md) — **Dinámica newtoniana modificada y materia faltante en cúmulos de galaxias** *(2026-11-10T03:05:00Z)*
 * [[LOG-0069]](./transmisiones/LOG-0069.md) — **Aniquilación par neutrino-antineutrino en espaciotiempo curvo y geometría de conversión de sabor** *(2026-11-10T04:05:00Z)*
+* [[LOG-0070]](./transmisiones/LOG-0070.md) — **Sondeo interferométrico de parámetros estelares en estrellas anfitrionas de exoplanetas con CHARA Array** *(2026-11-10T05:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

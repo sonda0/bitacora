@@ -129,4 +129,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0076]](./transmisiones/LOG-0076.md) — **Modelo analítico de campo medio para memristores de metalización electroquímica con matriz nanoporosa** *(2026-11-10T11:05:00Z)*
 * [[LOG-0077]](./transmisiones/LOG-0077.md) — **Dinámica de Talanov y formación de ondas rasantes controladas por chirp en la ecuación de Schrödinger no lineal vectorial** *(2026-11-10T12:05:00Z)*
 * [[LOG-0078]](./transmisiones/LOG-0078.md) — **Modelo de salto-difusión de dinámica de precios inmobiliarios y cambio vecinal** *(2026-11-10T13:05:00Z)*
+* [[LOG-0079]](./transmisiones/LOG-0079.md) — **Codificación de localizadores geográficos en IPv6 para Starlink mediante StarLoc** *(2026-11-10T14:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

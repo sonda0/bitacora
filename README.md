@@ -118,4 +118,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0065]](./transmisiones/LOG-0065.md) — **Discriminación de rasgos de escala dependiente primordiales vs post-inflacionarios en el CMB** *(2026-11-10T00:05:00Z)*
 * [[LOG-0066]](./transmisiones/LOG-0066.md) — **Emisión coherente de radio a 45 MHz en la enana M GJ 725A con exoplaneta** *(2026-11-10T01:05:00Z)*
 * [[LOG-0067]](./transmisiones/LOG-0067.md) — **Fracción de fusión y límite de masa superior en enanas blancas ultramasivas** *(2026-11-10T02:05:00Z)*
+* [[LOG-0068]](./transmisiones/LOG-0068.md) — **Dinámica newtoniana modificada y materia faltante en cúmulos de galaxias** *(2026-11-10T03:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

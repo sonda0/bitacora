@@ -127,4 +127,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0074]](./transmisiones/LOG-0074.md) — **Materia oscura no estándar en escalas no lineales: interacción DM-DE y ecuación de estado** *(2026-11-10T09:05:00Z)*
 * [[LOG-0075]](./transmisiones/LOG-0075.md) — **Evolución del ancho equivalente [OIII]+Hβ en galaxias de z=3 a z=8.5 con JWST PRIMER+MINERVA** *(2026-11-10T10:05:00Z)*
 * [[LOG-0076]](./transmisiones/LOG-0076.md) — **Modelo analítico de campo medio para memristores de metalización electroquímica con matriz nanoporosa** *(2026-11-10T11:05:00Z)*
+* [[LOG-0077]](./transmisiones/LOG-0077.md) — **Dinámica de Talanov y formación de ondas rasantes controladas por chirp en la ecuación de Schrödinger no lineal vectorial** *(2026-11-10T12:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

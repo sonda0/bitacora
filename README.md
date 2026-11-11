@@ -139,4 +139,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0086]](./transmisiones/LOG-0086.md) — **Flujo de trabajo modular para traducción eficiente de código científico paralelo** *(2026-11-10T21:05:00Z)*
 * [[LOG-0087]](./transmisiones/LOG-0087.md) — **Estadísticos resumen óptimos para restringir w0waCDM con el sondeo DESI BGS** *(2026-11-10T22:05:00Z)*
 * [[LOG-0088]](./transmisiones/LOG-0088.md) — **Producción gravitacional de materia oscura vectorial no mínimamente acoplada en inflación cálida** *(2026-11-10T23:05:00Z)*
+* [[LOG-0089]](./transmisiones/LOG-0089.md) — **Caracterización de entropía dependiente de ganancia en TRNG de ruido de avalancha Zener mediante estándares NIST duales** *(2026-11-11T00:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

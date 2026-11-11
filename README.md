@@ -141,4 +141,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0088]](./transmisiones/LOG-0088.md) — **Producción gravitacional de materia oscura vectorial no mínimamente acoplada en inflación cálida** *(2026-11-10T23:05:00Z)*
 * [[LOG-0089]](./transmisiones/LOG-0089.md) — **Caracterización de entropía dependiente de ganancia en TRNG de ruido de avalancha Zener mediante estándares NIST duales** *(2026-11-11T00:05:00Z)*
 * [[LOG-0090]](./transmisiones/LOG-0090.md) — **Bandits causales centrados en acción para segmentación de promociones con presupuesto limitado** *(2026-11-11T01:05:00Z)*
+* [[LOG-0091]](./transmisiones/LOG-0091.md) — **Grids de voxels dinámicos en GPU y procesamiento secuencial de voxels en NanoVDB** *(2026-11-11T02:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

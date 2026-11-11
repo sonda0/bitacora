@@ -144,4 +144,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0091]](./transmisiones/LOG-0091.md) — **Grids de voxels dinámicos en GPU y procesamiento secuencial de voxels en NanoVDB** *(2026-11-11T02:05:00Z)*
 * [[LOG-0092]](./transmisiones/LOG-0092.md) — **Detección y explicación de fallos de política robótica mediante características internas dispersas** *(2026-11-11T03:05:00Z)*
 * [[LOG-0093]](./transmisiones/LOG-0093.md) — **Material planetario como fuente mayor de hidrógeno en enanas blancas de atmósfera de helio** *(2026-11-11T04:05:00Z)*
+* [[LOG-0094]](./transmisiones/LOG-0094.md) — **Mitigación de sistemáticos oscilatorios en mapas de intensidad H I banda L MeerKLASS** *(2026-11-11T05:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

@@ -137,4 +137,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0084]](./transmisiones/LOG-0084.md) — **Estelas de satélites en HETDEX: espectros, identificación orbital e impacto en sondeo** *(2026-11-10T19:05:00Z)*
 * [[LOG-0085]](./transmisiones/LOG-0085.md) — **Transitorios termonucleares tenues de doble detonación de enanas blancas comunes** *(2026-11-10T20:05:00Z)*
 * [[LOG-0086]](./transmisiones/LOG-0086.md) — **Flujo de trabajo modular para traducción eficiente de código científico paralelo** *(2026-11-10T21:05:00Z)*
+* [[LOG-0087]](./transmisiones/LOG-0087.md) — **Estadísticos resumen óptimos para restringir w0waCDM con el sondeo DESI BGS** *(2026-11-10T22:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

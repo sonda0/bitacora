@@ -165,4 +165,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0112]](./transmisiones/LOG-0112.md) — **Nuevas restricciones sobre el flujo de neutrinos de ultra-alta energía con el Askaryan Radio Array** *(2026-11-11T23:05:00Z)*
 * [[LOG-0113]](./transmisiones/LOG-0113.md) — **Simulación de dinámicas de redes Tavis-Cummings en computadoras cuánticas tolerantes a fallos** *(2026-11-12T00:05:00Z)*
 * [[LOG-0114]](./transmisiones/LOG-0114.md) — **Firmas dinámicas cromósfericas en la llamarada solar del 27 diciembre 2022 con DKIST** *(2026-11-12T01:05:00Z)*
+* [[LOG-0115]](./transmisiones/LOG-0115.md) — **Mapeo de reverberación de polvo de núcleos galácticos activos de baja masa** *(2026-11-12T02:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

@@ -162,4 +162,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0109]](./transmisiones/LOG-0109.md) — **Simulaciones de galaxias enanas con energías de explosión de supernovas de colapso dependientes de masa estelar y metalicidad** *(2026-11-11T20:05:00Z)*
 * [[LOG-0110]](./transmisiones/LOG-0110.md) — **Gran anti-glitch radiante en 1E 2259+586 con recuperación prolongada** *(2026-11-11T21:05:00Z)*
 * [[LOG-0111]](./transmisiones/LOG-0111.md) — **Restricciones empíricas de dispersión de rayos cósmicos en NGC 1333 mediante polarización de polvo** *(2026-11-11T22:05:00Z)*
+* [[LOG-0112]](./transmisiones/LOG-0112.md) — **Nuevas restricciones sobre el flujo de neutrinos de ultra-alta energía con el Askaryan Radio Array** *(2026-11-11T23:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

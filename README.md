@@ -146,4 +146,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0093]](./transmisiones/LOG-0093.md) — **Material planetario como fuente mayor de hidrógeno en enanas blancas de atmósfera de helio** *(2026-11-11T04:05:00Z)*
 * [[LOG-0094]](./transmisiones/LOG-0094.md) — **Mitigación de sistemáticos oscilatorios en mapas de intensidad H I banda L MeerKLASS** *(2026-11-11T05:05:00Z)*
 * [[LOG-0095]](./transmisiones/LOG-0095.md) — **Emisión temprana de rayos X como diagnóstico observacional de progenitores de ráfagas gamma** *(2026-11-11T06:05:00Z)*
+* [[LOG-0096]](./transmisiones/LOG-0096.md) — **Contactabilidad espaciotemporal en redes de civilizaciones galácticas: conteos de contacto y percolación** *(2026-11-11T07:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

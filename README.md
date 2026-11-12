@@ -168,4 +168,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0115]](./transmisiones/LOG-0115.md) — **Mapeo de reverberación de polvo de núcleos galácticos activos de baja masa** *(2026-11-12T02:05:00Z)*
 * [[LOG-0116]](./transmisiones/LOG-0116.md) — **Los días ordinarios del extraordinario blazar 3C 454.3: análisis multi-longitud de onda en estado cuiescente** *(2026-11-12T03:05:00Z)*
 * [[LOG-0117]](./transmisiones/LOG-0117.md) — **Aprendizaje de modelo de ruidos no estacionarios con correlaciones no locales para detección de objetos** *(2026-11-12T04:05:00Z)*
+* [[LOG-0118]](./transmisiones/LOG-0118.md) — **Misión STARI: demostrador tecnológico de interferometría de luz estelar para futuros observatorios espaciales** *(2026-11-12T05:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

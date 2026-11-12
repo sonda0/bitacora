@@ -156,4 +156,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0103]](./transmisiones/LOG-0103.md) — **SHINE: Entorno de inferencia de cizalla - Modelado generativo directo para lenteo gravitacional débil en radio** *(2026-11-11T14:05:00Z)*
 * [[LOG-0104]](./transmisiones/LOG-0104.md) — **Modelo de ruidos no estacionarios con correlaciones no locales para detección de objetos** *(2026-11-11T15:05:00Z)*
 * [[LOG-0105]](./transmisiones/LOG-0105.md) — **Pruebas inter-experimentales del exceso de muones atmosféricos** *(2026-11-11T16:05:00Z)*
+* [[LOG-0106]](./transmisiones/LOG-0106.md) — **Restricciones espectrales en modelos de Compton inverso con semillas de línea para la característica MeV en GRB 221009A** *(2026-11-11T17:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

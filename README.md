@@ -157,4 +157,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0104]](./transmisiones/LOG-0104.md) — **Modelo de ruidos no estacionarios con correlaciones no locales para detección de objetos** *(2026-11-11T15:05:00Z)*
 * [[LOG-0105]](./transmisiones/LOG-0105.md) — **Pruebas inter-experimentales del exceso de muones atmosféricos** *(2026-11-11T16:05:00Z)*
 * [[LOG-0106]](./transmisiones/LOG-0106.md) — **Restricciones espectrales en modelos de Compton inverso con semillas de línea para la característica MeV en GRB 221009A** *(2026-11-11T17:05:00Z)*
+* [[LOG-0107]](./transmisiones/LOG-0107.md) — **Aprovechamiento de alertas tempranas por lenteo: detectabilidad conjunta de ondas gravitacionales lenteadas y sus contrapartes ópticas LSST** *(2026-11-11T18:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

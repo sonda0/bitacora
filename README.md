@@ -148,4 +148,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0095]](./transmisiones/LOG-0095.md) — **Emisión temprana de rayos X como diagnóstico observacional de progenitores de ráfagas gamma** *(2026-11-11T06:05:00Z)*
 * [[LOG-0096]](./transmisiones/LOG-0096.md) — **Contactabilidad espaciotemporal en redes de civilizaciones galácticas: conteos de contacto y percolación** *(2026-11-11T07:05:00Z)*
 * [[LOG-0097]](./transmisiones/LOG-0097.md) — **Observaciones NUV y ópticas de la enana blanca ZTF J0328$-$1219 revelan periodicidad variable en su sistema de escombros en tránsito** *(2026-11-11T08:05:00Z)*
+* [[LOG-0098]](./transmisiones/LOG-0098.md) — **Variaciones de abundancia de proceso-r en cúmulos globulares como fósiles de mezcla turbulenta** *(2026-11-11T09:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

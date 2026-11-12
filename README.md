@@ -161,4 +161,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0108]](./transmisiones/LOG-0108.md) — **Nucleación de hielo de agua bajo ionización débil mediante agregación en iones negativos** *(2026-11-11T19:05:00Z)*
 * [[LOG-0109]](./transmisiones/LOG-0109.md) — **Simulaciones de galaxias enanas con energías de explosión de supernovas de colapso dependientes de masa estelar y metalicidad** *(2026-11-11T20:05:00Z)*
 * [[LOG-0110]](./transmisiones/LOG-0110.md) — **Gran anti-glitch radiante en 1E 2259+586 con recuperación prolongada** *(2026-11-11T21:05:00Z)*
+* [[LOG-0111]](./transmisiones/LOG-0111.md) — **Restricciones empíricas de dispersión de rayos cósmicos en NGC 1333 mediante polarización de polvo** *(2026-11-11T22:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

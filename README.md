@@ -151,4 +151,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0098]](./transmisiones/LOG-0098.md) — **Variaciones de abundancia de proceso-r en cúmulos globulares como fósiles de mezcla turbulenta** *(2026-11-11T09:05:00Z)*
 * [[LOG-0099]](./transmisiones/LOG-0099.md) — **Conexión entre mediciones a nivel de campo y funciones n-punto de sesgo galáctico mediante grupo de renormalización** *(2026-11-11T10:05:00Z)*
 * [[LOG-0100]](./transmisiones/LOG-0100.md) — **Restricción de flujo de calor electrónico a partir de mediciones reducidas en el viento solar** *(2026-11-11T11:05:00Z)*
+* [[LOG-0101]](./transmisiones/LOG-0101.md) — **Búsqueda archivística de objetos del Sistema Solar exterior en catálogo NOIRLab DR2: 65 candidatos incluyendo cuatro troyanos L4 de Neptuno** *(2026-11-11T12:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

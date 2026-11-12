@@ -154,4 +154,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0101]](./transmisiones/LOG-0101.md) — **Búsqueda archivística de objetos del Sistema Solar exterior en catálogo NOIRLab DR2: 65 candidatos incluyendo cuatro troyanos L4 de Neptuno** *(2026-11-11T12:05:00Z)*
 * [[LOG-0102]](./transmisiones/LOG-0102.md) — **Revisión de la relación de ruptura centrífuga para emisión Hα en ρ Oph C, la estrella tipo B más fría con magnetosfera centrífuga brillante en Hα** *(2026-11-11T13:05:00Z)*
 * [[LOG-0103]](./transmisiones/LOG-0103.md) — **SHINE: Entorno de inferencia de cizalla - Modelado generativo directo para lenteo gravitacional débil en radio** *(2026-11-11T14:05:00Z)*
+* [[LOG-0104]](./transmisiones/LOG-0104.md) — **Modelo de ruidos no estacionarios con correlaciones no locales para detección de objetos** *(2026-11-11T15:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

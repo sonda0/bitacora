@@ -166,4 +166,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0113]](./transmisiones/LOG-0113.md) — **Simulación de dinámicas de redes Tavis-Cummings en computadoras cuánticas tolerantes a fallos** *(2026-11-12T00:05:00Z)*
 * [[LOG-0114]](./transmisiones/LOG-0114.md) — **Firmas dinámicas cromósfericas en la llamarada solar del 27 diciembre 2022 con DKIST** *(2026-11-12T01:05:00Z)*
 * [[LOG-0115]](./transmisiones/LOG-0115.md) — **Mapeo de reverberación de polvo de núcleos galácticos activos de baja masa** *(2026-11-12T02:05:00Z)*
+* [[LOG-0116]](./transmisiones/LOG-0116.md) — **Los días ordinarios del extraordinario blazar 3C 454.3: análisis multi-longitud de onda en estado cuiescente** *(2026-11-12T03:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

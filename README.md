@@ -158,4 +158,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0105]](./transmisiones/LOG-0105.md) — **Pruebas inter-experimentales del exceso de muones atmosféricos** *(2026-11-11T16:05:00Z)*
 * [[LOG-0106]](./transmisiones/LOG-0106.md) — **Restricciones espectrales en modelos de Compton inverso con semillas de línea para la característica MeV en GRB 221009A** *(2026-11-11T17:05:00Z)*
 * [[LOG-0107]](./transmisiones/LOG-0107.md) — **Aprovechamiento de alertas tempranas por lenteo: detectabilidad conjunta de ondas gravitacionales lenteadas y sus contrapartes ópticas LSST** *(2026-11-11T18:05:00Z)*
+* [[LOG-0108]](./transmisiones/LOG-0108.md) — **Nucleación de hielo de agua bajo ionización débil mediante agregación en iones negativos** *(2026-11-11T19:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

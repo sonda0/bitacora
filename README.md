@@ -179,4 +179,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0126]](./transmisiones/LOG-0126.md) — **Huellas tentativas de CH₄ y NH₃ en la atmósfera de β Pictoris b** *(2026-11-12T13:05:00Z)*
 * [[LOG-0127]](./transmisiones/LOG-0127.md) — **SNe Ia con exceso temprano muestran absorción fuerte de C II** *(2026-11-12T14:05:00Z)*
 * [[LOG-0128]](./transmisiones/LOG-0128.md) — **Robustez de la posición del pico BAO frente a fluctuaciones del monopolo en sondeos de galaxias** *(2026-11-12T15:05:00Z)*
+* [[LOG-0129]](./transmisiones/LOG-0129.md) — **Supernovas Ia-CSM: caracterización uniforme de curvas de luz e inferencia de explosiones Ia subyacentes** *(2026-11-12T16:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

@@ -173,4 +173,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0120]](./transmisiones/LOG-0120.md) — **Firmas de transferencia de masa en estrellas rezagadas azules del cúmulo abierto Collinder 261** *(2026-11-12T07:05:00Z)*
 * [[LOG-0121]](./transmisiones/LOG-0121.md) — **Formación de singularidades genérica en sistemas de Keller-Segel bidimensionales** *(2026-11-12T08:05:00Z)*
 * [[LOG-0122]](./transmisiones/LOG-0122.md) — **Interacción magnónica quiral de Kerr desde apantallamiento Meissner lineal y no lineal en bicapas ferromagnetismo-superconductor** *(2026-11-12T09:05:00Z)*
+* [[LOG-0123]](./transmisiones/LOG-0123.md) — **Geometría de la detección de cambio de media gaussiana** *(2026-11-12T10:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

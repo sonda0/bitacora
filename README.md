@@ -189,4 +189,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0136]](./transmisiones/LOG-0136.md) — **Supernovas Ia-CSM: estudio uniforme de 50 eventos con medio circunestelar** *(2026-11-12T23:05:00Z)*
 * [[LOG-0137]](./transmisiones/LOG-0137.md) — **Modelado de Compton inverso con semillas de línea para la firma MeV en GRB 221009A** *(2026-11-13T00:05:00Z)*
 * [[LOG-0138]](./transmisiones/LOG-0138.md) — **Neblinas hidrolizadas en exoplanetas ricos en agua: composición y química prebiótica** *(2026-11-13T01:05:00Z)*
+* [[LOG-0139]](./transmisiones/LOG-0139.md) — **CosmoSim: estimación de parámetros de lente del Einstein Cross NGC 6505 mediante inferencia por simulación** *(2026-11-13T02:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

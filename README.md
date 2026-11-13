@@ -176,4 +176,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0123]](./transmisiones/LOG-0123.md) — **Geometría de la detección de cambio de media gaussiana** *(2026-11-12T10:05:00Z)*
 * [[LOG-0124]](./transmisiones/LOG-0124.md) — **Formación de granos de hielo por agregación iónica en plasma frío débilmente ionizado** *(2026-11-12T11:05:00Z)*
 * [[LOG-0125]](./transmisiones/LOG-0125.md) — **Disco de acreción de agujero negro auto-apantallado a luminosidades sub-Eddington** *(2026-11-12T12:05:00Z)*
+* [[LOG-0126]](./transmisiones/LOG-0126.md) — **Huellas tentativas de CH₄ y NH₃ en la atmósfera de β Pictoris b** *(2026-11-12T13:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

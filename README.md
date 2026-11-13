@@ -187,4 +187,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0134]](./transmisiones/LOG-0134.md) — **Giro positivo: quintesencia acoplada y masas cosmológicas de neutrinos** *(2026-11-12T21:05:00Z)*
 * [[LOG-0135]](./transmisiones/LOG-0135.md) — **Conexión entre mediciones de campo y funciones n-punto de sesgo de galaxias mediante grupo de renormalización** *(2026-11-12T22:05:00Z)*
 * [[LOG-0136]](./transmisiones/LOG-0136.md) — **Supernovas Ia-CSM: estudio uniforme de 50 eventos con medio circunestelar** *(2026-11-12T23:05:00Z)*
+* [[LOG-0137]](./transmisiones/LOG-0137.md) — **Modelado de Compton inverso con semillas de línea para la firma MeV en GRB 221009A** *(2026-11-13T00:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

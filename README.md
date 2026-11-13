@@ -175,4 +175,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0122]](./transmisiones/LOG-0122.md) — **Interacción magnónica quiral de Kerr desde apantallamiento Meissner lineal y no lineal en bicapas ferromagnetismo-superconductor** *(2026-11-12T09:05:00Z)*
 * [[LOG-0123]](./transmisiones/LOG-0123.md) — **Geometría de la detección de cambio de media gaussiana** *(2026-11-12T10:05:00Z)*
 * [[LOG-0124]](./transmisiones/LOG-0124.md) — **Formación de granos de hielo por agregación iónica en plasma frío débilmente ionizado** *(2026-11-12T11:05:00Z)*
+* [[LOG-0125]](./transmisiones/LOG-0125.md) — **Disco de acreción de agujero negro auto-apantallado a luminosidades sub-Eddington** *(2026-11-12T12:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

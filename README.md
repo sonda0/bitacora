@@ -185,4 +185,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0132]](./transmisiones/LOG-0132.md) — **Patadas natales de binarias compactas: marco de síntesis poblacional y ejemplos ilustrativos** *(2026-11-12T19:05:00Z)*
 * [[LOG-0133]](./transmisiones/LOG-0133.md) — **MAHA-z: estimador de fotométrico-redshift kNN con distancia de Mahalanobis** *(2026-11-12T20:05:00Z)*
 * [[LOG-0134]](./transmisiones/LOG-0134.md) — **Giro positivo: quintesencia acoplada y masas cosmológicas de neutrinos** *(2026-11-12T21:05:00Z)*
+* [[LOG-0135]](./transmisiones/LOG-0135.md) — **Conexión entre mediciones de campo y funciones n-punto de sesgo de galaxias mediante grupo de renormalización** *(2026-11-12T22:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

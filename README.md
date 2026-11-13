@@ -171,4 +171,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0118]](./transmisiones/LOG-0118.md) — **Misión STARI: demostrador tecnológico de interferometría de luz estelar para futuros observatorios espaciales** *(2026-11-12T05:05:00Z)*
 * [[LOG-0119]](./transmisiones/LOG-0119.md) — **Galaxias de radio gigantes del LoTSS-DR3: características físicas y entornos** *(2026-11-12T06:05:00Z)*
 * [[LOG-0120]](./transmisiones/LOG-0120.md) — **Firmas de transferencia de masa en estrellas rezagadas azules del cúmulo abierto Collinder 261** *(2026-11-12T07:05:00Z)*
+* [[LOG-0121]](./transmisiones/LOG-0121.md) — **Formación de singularidades genérica en sistemas de Keller-Segel bidimensionales** *(2026-11-12T08:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

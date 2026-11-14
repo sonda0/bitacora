@@ -193,4 +193,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0140]](./transmisiones/LOG-0140.md) — **Sobre la excitación de oscilaciones sloshing en lazos coronales calientes** *(2026-11-13T03:05:00Z)*
 * [[LOG-0141]](./transmisiones/LOG-0141.md) — **Restricciones observacionales de dispersión de rayos cósmicos en NGC 1333 mediante polarización de polvo** *(2026-11-13T04:05:00Z)*
 * [[LOG-0142]](./transmisiones/LOG-0142.md) — **El paseo aleatorio quiral activo: modelo de malla minimalista para partículas quirales activas** *(2026-11-13T05:05:00Z)*
+* [[LOG-0143]](./transmisiones/LOG-0143.md) — **Patadas natales de binarias compactas II: sistemas de estrellas de neutrones y agujeros negros comparten distribuciones de patadas similares** *(2026-11-13T06:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

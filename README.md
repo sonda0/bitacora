@@ -198,4 +198,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0145]](./transmisiones/LOG-0145.md) — **ViViViT: transformador video-a-video para reconstrucción de conos de luz cosmológicos** *(2026-11-13T08:05:00Z)*
 * [[LOG-0146]](./transmisiones/LOG-0146.md) — **Regresión de propiedades físicas de fusiones galácticas mediante bispectrum de wavelet armónico sólido** *(2026-11-14T09:05:00Z)*
 * [[LOG-0147]](./transmisiones/LOG-0147.md) — **Detección de ráfagas rápidas de radio repetidoras en cúmulo globular M92 con CHIME/FRB** *(2026-11-14T22:05:00Z)*
+* [[LOG-0148]](./transmisiones/LOG-0148.md) — **Test Idempotency Publication - Unique Content** *(2026-11-14T22:06:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

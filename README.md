@@ -199,4 +199,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0146]](./transmisiones/LOG-0146.md) — **Regresión de propiedades físicas de fusiones galácticas mediante bispectrum de wavelet armónico sólido** *(2026-11-14T09:05:00Z)*
 * [[LOG-0147]](./transmisiones/LOG-0147.md) — **Detección de ráfagas rápidas de radio repetidoras en cúmulo globular M92 con CHIME/FRB** *(2026-11-14T22:05:00Z)*
 * [[LOG-0148]](./transmisiones/LOG-0148.md) — **Test Idempotency Publication - Unique Content** *(2026-11-14T22:06:00Z)*
+* [[LOG-0149]](./transmisiones/LOG-0149.md) — **Variabilidad de líneas de emisión en núcleo galáctico activo Mrk 590 revela disco de acreción truncado** *(2026-11-15T00:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

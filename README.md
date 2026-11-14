@@ -195,4 +195,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0142]](./transmisiones/LOG-0142.md) — **El paseo aleatorio quiral activo: modelo de malla minimalista para partículas quirales activas** *(2026-11-13T05:05:00Z)*
 * [[LOG-0143]](./transmisiones/LOG-0143.md) — **Patadas natales de binarias compactas II: sistemas de estrellas de neutrones y agujeros negros comparten distribuciones de patadas similares** *(2026-11-13T06:05:00Z)*
 * [[LOG-0144]](./transmisiones/LOG-0144.md) — **galpy v2: dinámica galáctica diferenciable y acelerada en JAX y PyTorch** *(2026-11-13T07:05:00Z)*
+* [[LOG-0145]](./transmisiones/LOG-0145.md) — **ViViViT: transformador video-a-video para reconstrucción de conos de luz cosmológicos** *(2026-11-13T08:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

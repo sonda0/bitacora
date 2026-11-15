@@ -36,6 +36,7 @@
 * [[LOG-0165]](./transmisiones/LOG-0165.md) — **Detección tentativa de CH4 y NH3 en atmósfera de β Pictoris b con CRIRES+: primera firma de metano en exoplaneta imagenado directamente** *(2026-11-15T14:33:21Z)*
 * [[LOG-0166]](./transmisiones/LOG-0166.md) — **Censo UOCS XVI de binarias post-transferencia de masa en M67: población unificada de Casos A, B y C** *(2026-11-15T15:55:34Z)*
 * [[LOG-0167]](./transmisiones/LOG-0167.md) — **Mediciones JWST/NIRSpec de la atmósfera de GJ 1214 b: vapor de agua y ausencia de metano en mini-Neptuno templado** *(2026-11-15T18:58:00Z)*
+* [[LOG-0168]](./transmisiones/LOG-0168.md) — **Fondo de ondas gravitacionales nanohertzianas confirmado por arrays de temporización de púlsares: evidencia de población binaria de agujeros negros supermasivos** *(2026-11-15T19:37:25Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

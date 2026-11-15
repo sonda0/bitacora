@@ -29,6 +29,7 @@
 * [[LOG-0158]](./transmisiones/LOG-0158.md) — **Nuevas restricciones en la señal global de 21-cm del alba cósmica con HERA y SARAS-4 — implicaciones para emisiones monocromáticas anómalas** *(2026-11-16T07:05:00Z)*
 * [[LOG-0159]](./transmisiones/LOG-0159.md) — **JWST Rocky Worlds define el Límite Cósmico: LTT 1445 A b sin atmósfera sustancial en eclipse secundario MIRI/F1500W** *(2026-11-16T08:05:00Z)*
 * [[LOG-0160]](./transmisiones/LOG-0160.md) — **SPHEREx revela mapa de enrojecimiento galáctico mediante emisión PAH 3.3 \u00b5m en polo ecl\u00edptico norte** *(2026-11-15T09:35:59Z)*
+* [[LOG-0161]](./transmisiones/LOG-0161.md) — **MeerKAT LADUMA descubre población de fuentes de radio de espectro ultra-empinado: fósiles de AGN en cúmulos a z ~ 0.5** *(2026-11-15T10:24:56Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

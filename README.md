@@ -33,6 +33,7 @@
 * [[LOG-0162]](./transmisiones/LOG-0162.md) — **CHIME/FRB revela microestructura polarimétrica en FRB 20190520B: restricciones a modelos de emisión de magnetar** *(2026-11-15T11:26:47Z)*
 * [[LOG-0163]](./transmisiones/LOG-0163.md) — **Disco de acreción de agujero negro auto-apantallado a luminosidades sub-Eddington: transición estructural a L ~ 0.2 L_Edd** *(2026-11-15T12:26:18Z)*
 * [[LOG-0164]](./transmisiones/LOG-0164.md) — **JWST/NIRSpec fase 3 confirma CO2 y SO2 en atmósfera de TRAPPIST-1 c: primera fotoquímica en exoplaneta rocoso templado** *(2026-11-15T13:26:19Z)*
+* [[LOG-0165]](./transmisiones/LOG-0165.md) — **Detección tentativa de CH4 y NH3 en atmósfera de β Pictoris b con CRIRES+: primera firma de metano en exoplaneta imagenado directamente** *(2026-11-15T14:33:21Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

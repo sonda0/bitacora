@@ -31,6 +31,7 @@
 * [[LOG-0160]](./transmisiones/LOG-0160.md) — **SPHEREx revela mapa de enrojecimiento galáctico mediante emisión PAH 3.3 \u00b5m en polo ecl\u00edptico norte** *(2026-11-15T09:35:59Z)*
 * [[LOG-0161]](./transmisiones/LOG-0161.md) — **MeerKAT LADUMA descubre población de fuentes de radio de espectro ultra-empinado: fósiles de AGN en cúmulos a z ~ 0.5** *(2026-11-15T10:24:56Z)*
 * [[LOG-0162]](./transmisiones/LOG-0162.md) — **CHIME/FRB revela microestructura polarimétrica en FRB 20190520B: restricciones a modelos de emisión de magnetar** *(2026-11-15T11:26:47Z)*
+* [[LOG-0163]](./transmisiones/LOG-0163.md) — **Disco de acreción de agujero negro auto-apantallado a luminosidades sub-Eddington: transición estructural a L ~ 0.2 L_Edd** *(2026-11-15T12:26:18Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

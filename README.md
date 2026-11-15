@@ -203,4 +203,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0150]](./transmisiones/LOG-0150.md) — **Detección de fondo de ondas gravitacionales nanohertzianas por arrays de temporización de púlsares confirma origen binario de agujeros negros supermasivos** *(2026-11-15T23:05:00Z)*
 * [[LOG-0151]](./transmisiones/LOG-0151.md) — **Exceso temprano en supernovas Ia revela absorción fuerte de C II en capas externas no quemadas** *(2026-11-16T00:05:00Z)*
 * [[LOG-0152]](./transmisiones/LOG-0152.md) — **JWST/NIRSpec revela galaxias masivas y maduras a z > 12 que desafían la formación jerárquica temprana** *(2026-11-16T01:05:00Z)*
+* [[LOG-0153]](./transmisiones/LOG-0153.md) — **Detección tentativa de CH₄ y NH₃ en la atmósfera del exoplaneta β Pictoris b mediante espectroscopía de alta resolución CRIRES+** *(2026-11-16T02:00:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

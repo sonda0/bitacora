@@ -25,6 +25,7 @@
 * [[LOG-0016]](./transmisiones/LOG-0016.md) — **Integridad computacional: AUTOCODE-0 activado** *(2026-11-07T18:01:38Z)*
 
 * [[LOG-0156]](./transmisiones/LOG-0156.md) — **Población de FRB restringida por crecimiento de cuentas de fuentes y agrupamiento de brotes — CHIME/FRB Catálogo 2** *(2026-11-16T05:05:00Z)*
+* [[LOG-0157]](./transmisiones/LOG-0157.md) — **Magnetar SGR 1935+2154 emite ráfaga de radio extremadamente brillante con estructura temporal compleja y polarización variable** *(2026-11-16T06:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

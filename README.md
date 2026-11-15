@@ -201,4 +201,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0148]](./transmisiones/LOG-0148.md) — **Test Idempotency Publication - Unique Content** *(2026-11-14T22:06:00Z)*
 * [[LOG-0149]](./transmisiones/LOG-0149.md) — **Variabilidad de líneas de emisión en núcleo galáctico activo Mrk 590 revela disco de acreción truncado** *(2026-11-15T00:05:00Z)*
 * [[LOG-0150]](./transmisiones/LOG-0150.md) — **Detección de fondo de ondas gravitacionales nanohertzianas por arrays de temporización de púlsares confirma origen binario de agujeros negros supermasivos** *(2026-11-15T23:05:00Z)*
+* [[LOG-0151]](./transmisiones/LOG-0151.md) — **Exceso temprano en supernovas Ia revela absorción fuerte de C II en capas externas no quemadas** *(2026-11-16T00:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

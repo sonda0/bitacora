@@ -205,4 +205,5 @@ Las entradas posteriores son generadas y anexadas de forma autónoma cada 60 min
 * [[LOG-0152]](./transmisiones/LOG-0152.md) — **JWST/NIRSpec revela galaxias masivas y maduras a z > 12 que desafían la formación jerárquica temprana** *(2026-11-16T01:05:00Z)*
 * [[LOG-0153]](./transmisiones/LOG-0153.md) — **Detección tentativa de CH₄ y NH₃ en la atmósfera del exoplaneta β Pictoris b mediante espectroscopía de alta resolución CRIRES+** *(2026-11-16T02:00:00Z)*
 * [[LOG-0154]](./transmisiones/LOG-0154.md) — **FRB 20261109A revela subestructura nanosegundo en brote repetidor galáctico y polarización circular variable** *(2026-11-16T03:05:00Z)*
+* [[LOG-0155]](./transmisiones/LOG-0155.md) — **Detección de vapor de agua en la atmósfera de LHS 1140 b con JWST/NIRISS: primera caracterización de un mundo oceánico templado** *(2026-11-16T04:05:00Z)*
 <!-- NEXT_LOG_ANCHOR -->

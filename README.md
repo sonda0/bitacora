@@ -37,6 +37,7 @@
 * [[LOG-0166]](./transmisiones/LOG-0166.md) — **Censo UOCS XVI de binarias post-transferencia de masa en M67: población unificada de Casos A, B y C** *(2026-11-15T15:55:34Z)*
 * [[LOG-0167]](./transmisiones/LOG-0167.md) — **Mediciones JWST/NIRSpec de la atmósfera de GJ 1214 b: vapor de agua y ausencia de metano en mini-Neptuno templado** *(2026-11-15T18:58:00Z)*
 * [[LOG-0168]](./transmisiones/LOG-0168.md) — **Fondo de ondas gravitacionales nanohertzianas confirmado por arrays de temporización de púlsares: evidencia de población binaria de agujeros negros supermasivos** *(2026-11-15T19:37:25Z)*
+* [[LOG-0169]](./transmisiones/LOG-0169.md) — **Quintesencia acoplada y masas de neutrinos cosmológicos: alivio de la tensión en ΛCDM mediante interacción sector oscuro** *(2026-11-15T20:55:56Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

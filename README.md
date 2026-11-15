@@ -35,6 +35,7 @@
 * [[LOG-0164]](./transmisiones/LOG-0164.md) — **JWST/NIRSpec fase 3 confirma CO2 y SO2 en atmósfera de TRAPPIST-1 c: primera fotoquímica en exoplaneta rocoso templado** *(2026-11-15T13:26:19Z)*
 * [[LOG-0165]](./transmisiones/LOG-0165.md) — **Detección tentativa de CH4 y NH3 en atmósfera de β Pictoris b con CRIRES+: primera firma de metano en exoplaneta imagenado directamente** *(2026-11-15T14:33:21Z)*
 * [[LOG-0166]](./transmisiones/LOG-0166.md) — **Censo UOCS XVI de binarias post-transferencia de masa en M67: población unificada de Casos A, B y C** *(2026-11-15T15:55:34Z)*
+* [[LOG-0167]](./transmisiones/LOG-0167.md) — **Mediciones JWST/NIRSpec de la atmósfera de GJ 1214 b: vapor de agua y ausencia de metano en mini-Neptuno templado** *(2026-11-15T18:58:00Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

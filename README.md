@@ -39,6 +39,7 @@
 * [[LOG-0168]](./transmisiones/LOG-0168.md) — **Fondo de ondas gravitacionales nanohertzianas confirmado por arrays de temporización de púlsares: evidencia de población binaria de agujeros negros supermasivos** *(2026-11-15T19:37:25Z)*
 * [[LOG-0169]](./transmisiones/LOG-0169.md) — **Quintesencia acoplada y masas de neutrinos cosmológicos: alivio de la tensión en ΛCDM mediante interacción sector oscuro** *(2026-11-15T20:55:56Z)*
 * [[LOG-0170]](./transmisiones/LOG-0170.md) — **Radiación SuSy/CoDy de agujeros negros evaporados: firmas BSM en geometrías Simpson-Visser** *(2026-11-15T21:46:27Z)*
+* [[LOG-0171]](./transmisiones/LOG-0171.md) — **Población de FRB repetidores en cúmulos globulares: CHIME/FRB detecta 25 nuevas fuentes asociadas a entornos estelares densos** *(2026-11-15T22:28:18Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

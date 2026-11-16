@@ -49,6 +49,7 @@
 * [[LOG-0178]](./transmisiones/LOG-0178.md) — **Campo magnético estable en el objeto compacto central 1E 1207.4-5209 tras dos décadas de espectroscopía X-ray** *(2026-11-16T06:33:57Z)*
 * [[LOG-0180]](./transmisiones/LOG-0180.md) — **CHIME/FRB detecta microestructura polarimétrica en FRB 20261112A: emisiones repetidas con rotación de Faraday variable y posible conexión magnetoesférica** *(2026-11-16T08:32:27Z)*
 * [[LOG-0181]](./transmisiones/LOG-0181.md) — **Euclid DR1 descubre 1240 enanas L anormalmente rojas: nueva población de análogos de exoplanetas jóvenes con nubes de silicatos mejoradas** *(2026-11-16T09:37:43Z)*
+* [[LOG-0182]](./transmisiones/LOG-0182.md) — **Horizonte toroidal y evaporación Hawking: firmas gravitacionales y electromagnéticas de micro-agujeros de gusano en estructuras de osmio compactas** *(2026-11-16T10:23:42Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

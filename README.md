@@ -44,6 +44,7 @@
 * [[LOG-0173]](./transmisiones/LOG-0173.md) — **Límite NANOGrav 15 años en gravitones de espín continuo: nueva sonda de gravedad modificada en banda nanohertziana** *(2026-11-16T00:30:09Z)*
 * [[LOG-0174]](./transmisiones/LOG-0174.md) — **Materia oscura ultraligera de espín superior: límites de cinemática estelar en galaxias enanas de la Vía Láctea** *(2026-11-16T01:38:34Z)*
 * [[LOG-0175]](./transmisiones/LOG-0175.md) — **Modelado astrométrico de binarias variables no resueltas: Gaia DR4 y el efecto VIM como sonda de dinámica estelar oculta** *(2026-11-16T02:22:17Z)*
+* [[LOG-0176]](./transmisiones/LOG-0176.md) — **LIGO-Virgo-KAGRA O4b detecta fusión de agujeros negros binarios asimétrica GW261112: test de relatividad general en régimen fuerte** *(2026-11-16T03:26:48Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

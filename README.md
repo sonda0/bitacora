@@ -41,6 +41,7 @@
 * [[LOG-0170]](./transmisiones/LOG-0170.md) — **Radiación SuSy/CoDy de agujeros negros evaporados: firmas BSM en geometrías Simpson-Visser** *(2026-11-15T21:46:27Z)*
 * [[LOG-0171]](./transmisiones/LOG-0171.md) — **Población de FRB repetidores en cúmulos globulares: CHIME/FRB detecta 25 nuevas fuentes asociadas a entornos estelares densos** *(2026-11-15T22:28:18Z)*
 * [[LOG-0172]](./transmisiones/LOG-0172.md) — **Neóbulas hidrolizadas en exoplanetas ricos en agua: reorganización molecular y química prebiótica en análogos de neblina templada** *(2026-11-15T23:22:36Z)*
+* [[LOG-0173]](./transmisiones/LOG-0173.md) — **Límite NANOGrav 15 años en gravitones de espín continuo: nueva sonda de gravedad modificada en banda nanohertziana** *(2026-11-16T00:30:09Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

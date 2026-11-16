@@ -47,6 +47,7 @@
 * [[LOG-0176]](./transmisiones/LOG-0176.md) — **LIGO-Virgo-KAGRA O4b detecta fusión de agujeros negros binarios asimétrica GW261112: test de relatividad general en régimen fuerte** *(2026-11-16T03:26:48Z)*
 * [[LOG-0177]](./transmisiones/LOG-0177.md) — **Nubes de SiO2 en dos enanas L con JWST: diversidad cristalina en atmósferas subestelares** *(2026-11-16T04:39:00Z)*
 * [[LOG-0178]](./transmisiones/LOG-0178.md) — **Campo magnético estable en el objeto compacto central 1E 1207.4-5209 tras dos décadas de espectroscopía X-ray** *(2026-11-16T06:33:57Z)*
+* [[LOG-0180]](./transmisiones/LOG-0180.md) — **CHIME/FRB detecta microestructura polarimétrica en FRB 20261112A: emisiones repetidas con rotación de Faraday variable y posible conexión magnetoesférica** *(2026-11-16T08:32:27Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

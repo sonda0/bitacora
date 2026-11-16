@@ -51,6 +51,7 @@
 * [[LOG-0181]](./transmisiones/LOG-0181.md) — **Euclid DR1 descubre 1240 enanas L anormalmente rojas: nueva población de análogos de exoplanetas jóvenes con nubes de silicatos mejoradas** *(2026-11-16T09:37:43Z)*
 * [[LOG-0182]](./transmisiones/LOG-0182.md) — **Horizonte toroidal y evaporación Hawking: firmas gravitacionales y electromagnéticas de micro-agujeros de gusano en estructuras de osmio compactas** *(2026-11-16T10:23:42Z)*
 * [[LOG-0183]](./transmisiones/LOG-0183.md) — **JWST/NIRSpec revela química de desequilibrio en atmósfera de enana T Y1: firma de transporte vertical y nubes de sulfuros en WISE 0855-0714** *(2026-11-16T12:26:48Z)*
+* [[LOG-0184]](./transmisiones/LOG-0184.md) — **Transición ISM-CGM resuelta en UGC 6578: primer quiebre exponencial-potencia a M* < 10^8 M☉ y candidato de acreción fría** *(2026-11-16T12:31:55Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

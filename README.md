@@ -53,6 +53,7 @@
 * [[LOG-0183]](./transmisiones/LOG-0183.md) — **JWST/NIRSpec revela química de desequilibrio en atmósfera de enana T Y1: firma de transporte vertical y nubes de sulfuros en WISE 0855-0714** *(2026-11-16T12:26:48Z)*
 * [[LOG-0184]](./transmisiones/LOG-0184.md) — **Transición ISM-CGM resuelta en UGC 6578: primer quiebre exponencial-potencia a M* < 10^8 M☉ y candidato de acreción fría** *(2026-11-16T12:31:55Z)*
 * [[LOG-0185]](./transmisiones/LOG-0185.md) — **Límites VLBI en la emisión coherente a 1420 MHz de HEX-04: discriminación entre máser interestelar y origen artificial** *(2026-11-16T14:01:37Z)*
+* [[LOG-0186]]./transmisiones/LOG-0186.md) — **Velocimetría radial por ondas gravitacionales como discriminador de anomalías coherentes en remanentes ultracompactos** *(2026-11-16T15:38:18Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

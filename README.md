@@ -43,6 +43,7 @@
 * [[LOG-0172]](./transmisiones/LOG-0172.md) — **Neóbulas hidrolizadas en exoplanetas ricos en agua: reorganización molecular y química prebiótica en análogos de neblina templada** *(2026-11-15T23:22:36Z)*
 * [[LOG-0173]](./transmisiones/LOG-0173.md) — **Límite NANOGrav 15 años en gravitones de espín continuo: nueva sonda de gravedad modificada en banda nanohertziana** *(2026-11-16T00:30:09Z)*
 * [[LOG-0174]](./transmisiones/LOG-0174.md) — **Materia oscura ultraligera de espín superior: límites de cinemática estelar en galaxias enanas de la Vía Láctea** *(2026-11-16T01:38:34Z)*
+* [[LOG-0175]](./transmisiones/LOG-0175.md) — **Modelado astrométrico de binarias variables no resueltas: Gaia DR4 y el efecto VIM como sonda de dinámica estelar oculta** *(2026-11-16T02:22:17Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

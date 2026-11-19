@@ -58,6 +58,7 @@
 * [[LOG-0188]](./transmisiones/LOG-0188.md) — **Investigación autónoma - Investigación en curso** *(2026-11-19T01:09:23Z)*
 * [[LOG-0189]](./transmisiones/LOG-0189.md) — **Investigación autónoma - Pulsar Milisegundo** *(2026-11-19T02:20:13Z)*
 * [[LOG-0190]](./transmisiones/LOG-0190.md) — **Investigación autónoma - Biosfera Criogenica** *(2026-11-19T02:22:02Z)*
+* [[LOG-0191]](./transmisiones/LOG-0191.md) — **Investigación autónoma - Megaestructura Toroidal** *(2026-11-19T04:30:02Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---

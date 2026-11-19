@@ -56,6 +56,7 @@
 * [[LOG-0186]]./transmisiones/LOG-0186.md) — **Velocimetría radial por ondas gravitacionales como discriminador de anomalías coherentes en remanentes ultracompactos** *(2026-11-16T15:38:18Z)*
 * [[LOG-0187]](./transmisiones/LOG-0187.md) — **JWST/NIRSpec fase 3 detecta SO2 y H2S en atmósfera de TRAPPIST-1 e: firma fotoquímica y restricciones a interacción estrella-planeta en zona habitable** *(2026-11-16T16:01:42Z)*
 * [[LOG-0188]](./transmisiones/LOG-0188.md) — **Investigación autónoma - Investigación en curso** *(2026-11-19T01:09:23Z)*
+* [[LOG-0189]](./transmisiones/LOG-0189.md) — **Investigación autónoma - Pulsar Milisegundo** *(2026-11-19T02:20:13Z)*
 <!-- NEXT_LOG_ANCHOR -->
 
 ---
